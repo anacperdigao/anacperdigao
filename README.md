@@ -3,9 +3,11 @@
 
 <div align="center">
   <a href="https://github.com/anacperdigao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacperdigao&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacperdigao&layout=compact&langs_count=7&theme=react"/>
-  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=anacperdigao&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  <section>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anacperdigao&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacperdigao&layout=compact&langs_count=7&theme=react"/>
+  <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=anacperdigao&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  </section>
 </div>
 
 
