@@ -1,5 +1,21 @@
-## Hi devs, my name is Ana Carolina Perdigão and I develop for the web!
+# Olá, me chamo Ana Carolina Perdigão.
+## Seja bem-vindo(a)!
 
+Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Engenharia de Produção.
+
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/anacperdigao?tab=stars"
+    >Acesse meus repositórios aqui</a>
+  </h2>
+</div>
+
+<br>
+
+## :chart_with_upwards_trend: Minhas estatísticas
 
 <div align="center">
   <a href="https://github.com/anacperdigao">
@@ -11,7 +27,7 @@
 </div>
 
 
-### My techs
+## :bookmark_tabs: Minhas Skill's
 <section>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -20,6 +36,7 @@
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
 
-### Contact me!
+
+## Meus contatos
   <a href="mailto:anacarolinaperdigao1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/anacarolinaperdigao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
