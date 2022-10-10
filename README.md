@@ -35,11 +35,11 @@ Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Enge
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />       
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
+  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/193302675-d7113fb4-a808-49f5-9465-ccf18cf31cfb.png"/>
 
 ## :rocket: Estou me aprofundando no momento:
 
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/193302675-d7113fb4-a808-49f5-9465-ccf18cf31cfb.png"/>
 
 
 ## Meus contatos
