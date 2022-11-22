@@ -41,9 +41,11 @@ Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Enge
 </div>
 
 ## :rocket: Estou me aprofundando no momento:
-
+  
+<div>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+</div>
 
 ## Meus contatos
   <a href="mailto:anacarolinaperdigao1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
