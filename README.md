@@ -1,7 +1,8 @@
 # Olá, me chamo Ana Carolina Perdigão.
 ## Seja bem-vindo(a)!
 
-Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Engenharia de Produção. Agora estou cursando Engenharia de Software e cada vez mais apaixonada por desenvolvimento web.
+<p>Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Engenharia de Produção.</p> 
+<p>Agora estou cursando Engenharia de Software e cada vez mais apaixonada por desenvolvimento web.</p>
 
 <div align='center'>
   <h2>
@@ -27,7 +28,7 @@ Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Enge
 </div>
 
 
-## :bookmark_tabs: Minhas Skill's
+## ✔️ Minhas Skill's
 
 <div>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -37,8 +38,8 @@ Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Enge
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/193302675-d7113fb4-a808-49f5-9465-ccf18cf31cfb.png"/>
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
-
 </div>
+<br>
 
 ## :rocket: Estou me aprofundando no momento:
   
@@ -46,6 +47,16 @@ Tenho 30 anos, sou uma desenvolvedora front-end e com formação inicial em Enge
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </div>
+<br>
+  
+## :mag_right: Já dei umas voltas por:
+  
+<div>
+  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205117966-f1d99b12-7767-4298-b5e8-c3ddc64b4f82.png"/>
+  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205120992-57821def-4111-40fc-8fa8-2411993e95d0.png"/>
+  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205120742-32e7c623-b2c8-4acc-887b-6dd06c7ffd82.png"/>
+</div>
+<br>
 
 ## Meus contatos
   <a href="mailto:anacarolinaperdigao1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
