@@ -31,9 +31,10 @@
 ## ✔️ Minhas Skill's
 
 <div>
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/193302675-d7113fb4-a808-49f5-9465-ccf18cf31cfb.png"/>
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -44,7 +45,7 @@
 ## :rocket: Estou me aprofundando no momento:
   
 <div>
-  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205117966-f1d99b12-7767-4298-b5e8-c3ddc64b4f82.png"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </div>
 <br>
@@ -52,9 +53,8 @@
 ## :mag_right: Já dei umas voltas por:
   
 <div>
-  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205117966-f1d99b12-7767-4298-b5e8-c3ddc64b4f82.png"/>
-  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205120992-57821def-4111-40fc-8fa8-2411993e95d0.png"/>
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205120742-32e7c623-b2c8-4acc-887b-6dd06c7ffd82.png"/>
+  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205120992-57821def-4111-40fc-8fa8-2411993e95d0.png"/>
 </div>
 <br>
 
