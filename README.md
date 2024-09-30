@@ -1,7 +1,7 @@
 # Olá, me chamo Ana Carolina Perdigão.
 ## Seja bem-vindo(a)!
 
-<p>Tenho 32 anos, sou uma desenvolvedora front-end e com formação em Engenharia de Produção.</p> 
+<p>Tenho 32 anos, sou uma desenvolvedora front-end com formação em Engenharia de Produção.</p> 
 
 <div align='center'>
   <h2>
